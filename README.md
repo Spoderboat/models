@@ -1,1 +1,1 @@
-#Ask Isaac to be added to the repo
+#Ask Isaac if you want to be added to the repo

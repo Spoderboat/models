@@ -1,2 +1,1 @@
-# models
-SCAD files for 3d models
+#Ask Isaac if you want to be added to the repo

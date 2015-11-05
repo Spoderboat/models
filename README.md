@@ -1,1 +1,2 @@
-#Ask Isaac if you want to be added to the repo
+#Models are in the folder called 'stl'
+ask Isaac if you need direct push permissions
